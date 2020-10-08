@@ -1,0 +1,33 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Wed Oct  7 14:59:06 2020"
+  rime_version: 1.5.3
+patch:
+  "preset_color_schemes/西米露":
+    author: Loong
+    back_color: 0x030303
+    border_color: 0x0A0A0A
+    candidate_text_color: 0xFFFFFF
+    comment_text_color: 0xFCFCFC
+    hilited_back_color: 0x4734D6
+    hilited_candidate_back_color: 0x4734D6
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_text_color: 0xFFFFFF
+    name: "西米露"
+    text_color: 0xFAFAFF
+  "style/color_scheme": youtube
+  "style/font_face": "Microsoft YaHei Mono"
+  "style/font_point": 13
+  "style/horizontal": true
+  "style/inline_preedit": true
+  "style/layout/border": 0
+  "style/layout/border_width": 0
+  "style/layout/candidate_spacing": 8
+  "style/layout/hilite_padding": 4
+  "style/layout/hilite_spacing": 0
+  "style/layout/margin_x": 4
+  "style/layout/margin_y": 4
+  "style/layout/round_corner": 0
+  "style/layout/spacing": 10
